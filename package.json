@@ -1,0 +1,20 @@
+{
+  "name": "be-meetup-challenge-nhaina-sol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "challenge"
+  },
+  "author": "Nhaina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.7.2",
+    "redis": "^4.0.1"
+  }
+}
